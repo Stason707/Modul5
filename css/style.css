@@ -111,14 +111,14 @@ article img {
 .copiright {
     color: rgb(0, 0, 0);
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 20px;
+    padding-bottom: 40px;
 }
 footer {
     background-color: rgba(161, 114, 38, 0.637);
     text-align: center;
 }
 footer .links {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     padding: 19px 0 19px
 }
 footer .links > a {
